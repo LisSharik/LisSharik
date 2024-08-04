@@ -74,7 +74,7 @@
 ###
 
 <div align="left">
-  <a href="discordapp.com/users/734910578275123220" target="_blank">
+  <a href="https://discord.com/channels/@lissharik" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=6666E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:lissharikagudelo@gmail.com" target="_blank">
