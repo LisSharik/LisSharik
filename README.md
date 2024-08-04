@@ -1,22 +1,21 @@
-<h1 align="center">Hi 👋! I am Lis Sharik Agudelo</h1>
+<h1 align="left">Hi 👋! I am Lis Sharik Agudelo</h1>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lisSharik/lisSharik/output/snake.svg" alt="Snake animation" />
-
-###
 
 <p align="left">Hello! I'm a Multimedia Design and Integration Technician with a strong foundation in web development. I have experience in JavaScript, Java, Spring Boot, and MySQL. Currently, I'm expanding my skills by learning React on my own. I'm passionate about creating efficient and user-friendly applications.</p>
 
 ###
 
-<h3 align="left">My Stats</h3>
+<h2 align="left">My Stats</h2>
+
+
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lisSharik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="170" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=lisSharik&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lisSharik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=My%20most%20used%20languages" height="170" alt="languages graph"  />
@@ -24,7 +23,7 @@
 
 ###
 
-<h3 align="left">My development and design technologies</h3>
+<h2 align="left">My development and design technologies</h2>
 
 ###
 
@@ -70,7 +69,7 @@
 
 ###
 
-<h3 align="left">My social media</h3>
+<h2 align="left">My social media</h2>
 
 ###
 
