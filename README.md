@@ -74,13 +74,13 @@
 ###
 
 <div align="left">
-  <a href="https://discord.com/channels/@lissharik" target="_blank">
+  <a href="https://discord.com/channels/@lissharik" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=6666E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:lissharikagudelo@gmail.com" target="_blank">
+  <a href="mailto:lissharikagudelo@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c71610&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/lis-sharik-agudelo-tob%C3%B3n-0639a2210/" target="_blank">
+  <a href="https://www.linkedin.com/in/lis-sharik-agudelo-tob%C3%B3n-0639a2210/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1166F7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
